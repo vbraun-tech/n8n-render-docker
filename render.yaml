@@ -31,5 +31,5 @@
       - key: DB_POSTGRESDB_USER
         value: n8n_db_8stj_user
       - key: DB_POSTGRESDB_PASSWORD
-        value: dein_geheimes_passwort
+        value: 05KwhGNkJdDAon98TrczwIWBh55pOXGd
 
