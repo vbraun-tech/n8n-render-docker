@@ -17,6 +17,19 @@
       - key: N8N_BASIC_AUTH_USER
         value: admin
       - key: N8N_BASIC_AUTH_PASSWORD
-        value: strong-password
+        value: deinStarkesPasswort
 
+      # PostgreSQL Verbindung
+      - key: DB_TYPE
+        value: postgres
+      - key: DB_POSTGRESDB_HOST
+        value: dpg-d1drjqmmcj7s73bdvnsg-a
+      - key: DB_POSTGRESDB_PORT
+        value: "5432"
+      - key: DB_POSTGRESDB_DATABASE
+        value: n8n_db_8stj
+      - key: DB_POSTGRESDB_USER
+        value: n8n_db_8stj_user
+      - key: DB_POSTGRESDB_PASSWORD
+        value: dein_geheimes_passwort
 
